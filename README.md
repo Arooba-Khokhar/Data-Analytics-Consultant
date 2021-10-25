@@ -22,21 +22,20 @@ course always google for help yourself as you need.
 9. Google Data Studio
 
 
+There are three steps to complete the task:
 
-1. Data Acquisition
+### Data Acquisition
 
 Fork segment project
-
 created github page (https://arooba-khokhar.github.io/pagestest/)
 
-2. Data Warehouse
+###  Data Warehouse
 
-Create account on Segment 
-Add source
+Create account on Segment and Add source
 copy the Segment snippet
 
 
-3. Visualize
+###  Visualize
 
 Create an account with Google Data Studio
 
