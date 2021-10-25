@@ -11,15 +11,16 @@ tools. You will find a coarse guideline and some hints below. The test descripti
 not always exactly describe what is needed in this step, so you need to abstract. You can of
 course always google for help yourself as you need.
 
-##### Create accounts on following  sites
-##### Create account on Segment
-##### Create Google Analytics account
-##### Create Service account 
-##### Create Bigquery account 
-##### Configure Cloud Platform
-##### google analytics
-##### Installing Cloud SDK
-##### Google Data Studio
+1. Create accounts on following  sites
+2. Create account on Segment
+3. Create Google Analytics account
+4. Create Service account 
+5. Create Bigquery account 
+6. Configure Cloud Platform
+7. google analytics
+8. Installing Cloud SDK
+9. Google Data Studio
+
 
 
 1. Data Acquisition
@@ -50,3 +51,13 @@ new versions of the record to the table. This will however not change the existi
 the customer but rather add a new record with the new data. The ETL process fills a
 columns “LOADDATE” with the current timestamp of when the upload happened. Sketch a
 query that returns a list of cities and the number of customers currently living there.
+
+
+
+## Part C
+
+ETL/python: Complete the following python script which extracts public COVID data and
+loads it into BigQuery. The data source provides the data in pivoted form, row are countries
+and columns are dates. We need the unpivoted form where rows are facts with the
+dimensions country and date. The script is missing the unpivoting operation.
+
