@@ -22,7 +22,22 @@ course always google for help yourself as you need.
 ##### Google Data Studio
 
 
+1. Data Acquisition
 
+Fork segment project
+
+created github page (https://arooba-khokhar.github.io/pagestest/)
+
+2. Data Warehouse
+
+Create account on Segment 
+Add source
+copy the Segment snippet
+
+
+3. Visualize
+
+Create an account with Google Data Studio
 
 
 ## Part B
