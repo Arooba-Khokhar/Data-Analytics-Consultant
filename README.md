@@ -11,15 +11,15 @@ tools. You will find a coarse guideline and some hints below. The test descripti
 not always exactly describe what is needed in this step, so you need to abstract. You can of
 course always google for help yourself as you need.
 
-Create accounts on following  sites
-Create account on Segment
-Create Google Analytics account
-Create Service account 
-Create Bigquery account 
-Configure Cloud Platform
-google analytics
-Installing Cloud SDK
-Google Data Studio
+##### Create accounts on following  sites
+##### Create account on Segment
+##### Create Google Analytics account
+##### Create Service account 
+##### Create Bigquery account 
+##### Configure Cloud Platform
+##### google analytics
+##### Installing Cloud SDK
+##### Google Data Studio
 
 
 
